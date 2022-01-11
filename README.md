@@ -2,7 +2,7 @@
 - 👀  I’m interested in making apps
 - 🌱  I’m currently learning c#
 - 💞️  I’m looking to collaborate on windows or os's
-- 📫  How to reach me... there is no link
+- 📫  Email is albaraa8588@hotmail.com
 
 
 # Hello
