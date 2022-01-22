@@ -1,12 +1,10 @@
-- 👋  Hi, I’m @ayjemabo
+- 👋  Hi, I’m @ayjemabo aka Albaraa
 - 👀  I’m interested in making apps
 - 🌱  I’m currently learning c#
 - 💞️  I’m looking to collaborate on windows or os's
-- 📫  Email is albaraa8588@hotmail.com
+- 📫  A way to contact me is albaraa8588@hotmail.com
 
 
-# Hello
-I am albaraa; aka ayjemabo -- making apps rn
 
 <!---
 ayjemabo/ayjemabo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
